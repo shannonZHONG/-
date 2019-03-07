@@ -5,13 +5,13 @@ html 3篇 + 面试题 1篇 <br>
 16篇<br>
 
 theAys<br>
-Dom<br>
 Ajax<br>
 this<br>
 oop<br>
 http<br>
 sort<br>
-javascript interview questions<br>
+闭包<br>
+原形链<br>
 8篇 <br>
 
 ts vue react 3篇<br>
