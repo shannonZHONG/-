@@ -14,8 +14,8 @@ sort<br>
 原形链<br>
 8篇 <br>
 
-ts vue react 3篇<br>
-build:jq virtualdom redux react.js 4篇<br>
-undersccore.js source code <br>
+ts vue  4篇<br>
+build:jq react  2篇<br>
+undersccore.js source code 1篇 <br>
 
 the classical question ：what happned after the website is entered ？<br>
