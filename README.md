@@ -19,3 +19,12 @@ build:jq react  2篇<br>
 undersccore.js source code 1篇 <br>
 
 the classical question ：what happned after the website is entered ？<br>
+
+
+知识点 一定要过一遍：<br>
+scope<br>
+prototype classes inheritance <br>
+call bind apply <br>
+closures <br>
+hoisting<br>
+event callback loop <br>
