@@ -16,10 +16,10 @@ DOM<br>
 9篇 <br>
 
 ts vue  4篇<br>
-build:jq react  2篇<br>
+build:jq react redux  3篇<br>
 undersccore.js source code 1篇 <br>
 
-
+9篇<br>
 
 the classical question ：what happned after the website is entered ？<br>
 
