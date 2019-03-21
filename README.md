@@ -13,7 +13,8 @@ sort<br>
 闭包<br>
 原形链<br>
 DOM<br>
-9篇 <br>
+JQ<br>
+10篇 <br>
 
 ts vue  4篇<br>
 build:jq react redux  3篇<br>
